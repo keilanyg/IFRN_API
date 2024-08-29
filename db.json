@@ -1,0 +1,172 @@
+{
+    "livros": [
+        {
+            "id": "1",
+            "nome_livro": "Dom Casmurro",
+            "descricao_livro": "Órfão de pai e protegido do mundo pelo círculo doméstico e familiar, Bentinho, o narrador-personagem tinha uma vizinha desde sua infância, Capitu, com quem veio a se casar. Quando chega aos 54 anos, o atormentado protagonista decide escrever a história da sua vida, envolta por uma eterna controvérsia quanto à possível traição de sua esposa.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=UJHyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "2",
+            "nome_livro": "1984",
+            "descricao_livro": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "3",
+            "nome_livro": "O Pequeno Príncipe",
+            "descricao_livro": "Palavras de amor e sabedoria que cativam o coração e a alma fazem parte deste clássico que já conquistou milhões de leitores em todo o mundo. Durante a sua jornada por planetas diferentes e também pelo planeta Terra, o Pequeno Príncipe nos ensina lições valiosas sobre as escolhas, relações humanas e sentimentos como a solidão, a saudade, a amizade e a distância. Já há mais de sete décadas encantando as gerações de leitores, O Pequeno Príncipe é publicado agora pela Mafra Editorial, nesta edição especial, que conta com as ilustrações originais do autor e também com ilustrações inéditas. Esta é considerada uma das maiores obras literárias do século XX, sendo um dos livros mais traduzidos do mundo, para cerca de 253 idiomas. Foi publicada pela primeira vez no ano de 1942 nos Estados Unidos e, três anos depois, na França. Biografia do autor Antoine de Saint-Exupéry Antoine de Saint-Exupéry nasceu em uma família aristocrática, na data de 29 de junho de 1900, na cidade de Lyon, França. Escreveu romances de sucesso como Courrier sud (1929) e Vol de nuit (1931), obtendo grande êxito com o segundo romance, recebendo o Prêmio Fémina. Ele se tornou piloto de avião durante o serviço militar, tendo sido contratado pela Aéropostale. No início da Segunda Guerra Mundial, Antoine de Saint-Exupéry foi mobilizado pela Força Aérea para realizar voos de reconhecimento. Em 17 de junho de 1944, o autor desapareceu no mar depois de um voo para Córsega, seria um voo para uma missão de localização. Saint-Exupéry foi declarado oficialmente morte pela França no ano de 1948. Em 1998 foi encontrada sua pulseira, esclarecendo as causas de sua morte, seu avião havia sido abatido por uma aeronave da alemã.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=1D9KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "4",
+            "nome_livro": "1984",
+            "descricao_livro": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "5",
+            "nome_livro": "O Lobo do Mar",
+            "descricao_livro": "O Lobo do Mar é o segundo volume da Coleção Jack London. Trata-se de um romance de aventura com tons psicocológicos. Uma genial criação literária de London, sendo considerada por muitos a sua melhor obra. O protagonista do livro, Humphrey van Weyden, é um crítico literário, sobrevivente de um naufrágio que está sob o domínio de Wolf Larsen, o poderoso e amoral capitão do mar que o resgatou, e em torno do qual gravita toda a forte tensão e emoção da narrativa, que transcorre a bordo do navio \"Ghost\". O Lobo do Mar foi publicado em 1904, ano ano seguinte à publicação de O Chamado Selvagem, que havia difundido todo o talento do então jovem escritor Jack London, tornando-o famoso. A primeira tiragem de O Lobo do Mar esgotou-se assim que chegou as bancas e seu sucesso se mantém até os dias de hoje. O Lobo do Mar é um livro \"must read\" , principalmente pelo leitor que gosta de uma boa aventura.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=2B43DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "6",
+            "nome_livro": "Laranja Mecânica",
+            "descricao_livro": "Narrada pelo protagonista, o adolescente Alex, esta brilhante e perturbadora história cria uma sociedade futurista em que a violência atinge grandes proporções e provoca uma resposta igualmente agressiva de um governo totalitário. Ao lado de 1984, de George Orwell, e Admirável Mundo Novo, de Aldous Huxley, Laranja Mecânica é um dos ícones literários da alienação pós-industrial que caracterizou o século 20. Adaptado com maestria para o cinema em 1972 por Stanley Kubrick, o livro é uma obra marcante que atravessou décadas e se mantém atual.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=LciuCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "7",
+            "nome_livro": "O Código Da Vinci",
+            "descricao_livro": "\"Perfeição num best-seller. Um suspense divertidamente erudito, que se delicia levando os leitores numa caçada ofegante e guiando-os através de situações complicadas.\" – The New York Times Um assassinato dentro do Museu do Louvre, em Paris, traz à tona uma sinistra conspiração para revelar um segredo que foi protegido por uma sociedade secreta desde os tempos de Jesus Cristo. A vítima é o respeitado curador do museu, Jacques Saunière, um dos líderes dessa antiga fraternidade, o Priorado de Sião, que já teve como membros Leonardo da Vinci, Victor Hugo e Isaac Newton. Momentos antes de morrer, Saunière deixa uma mensagem cifrada que apenas a criptógrafa Sophie Neveu e Robert Langdon, um simbologista, podem desvendar. Eles viram suspeitos e detetives enquanto tentam decifrar um intricado quebra-cabeças que pode lhes revelar um segredo milenar que envolve a Igreja Católica. Apenas alguns passos à frente das autoridades e do perigoso assassino, Sophie e Robert vão à procura de pistas ocultas nas obras de Da Vinci e se debruçam sobre alguns dos maiores mistérios da cultura ocidental - da natureza do sorriso da Mona Lisa ao significado do Santo Graal. Mesclando os ingredientes de um envolvente suspense com informações sobre obras de arte, documentos e rituais secretos, Dan Brown consagrou-se como um dos autores mais brilhantes da atualidade.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=gV1nhvItuoAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "8",
+            "nome_livro": "O Sol é para Todos",
+            "descricao_livro": "A nova edição revista de um dos maiores clássicos da literatura mundial. Harper Lee nos apresenta um livro emblemático sobre racismo e injustiça, que marca seus leitores desde a sua primeira publicação e mostra seu valor até hoje. O sol é para todos conta a história de um advogado branco que defende um homem negro acusado de estuprar uma mulher branca nos Estados Unidos dos anos 1930 e enfrenta represálias da comunidade racista. O livro é narrado pela sensível Scout, filha do advogado e ainda criança na época. Uma história atemporal sobre tolerância, perda da inocência e conceito de justiça.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=XVvkCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "9",
+            "nome_livro": "Maus: A História de um Sobrevivente",
+            "descricao_livro": "Nas tiras, os judeus são desenhados como ratos e os nazistas ganham feições de gatos; poloneses não-judeus são porcos e americanos, cachorros. Esse recurso, aliado à ausência de cor dos quadrinhos, reflete o espírito do livro - trata-se de um relato que busca evidenciar a brutalidade do Holocausto. Spiegelman, porém, evita o sentimentalismo e interrompe algumas vezes a narrativa para dar espaço a dúvidas e inquietações.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71c0QuYr-2L.jpg"
+          },
+          {
+            "id": "10",
+            "nome_livro": "O Morro dos Ventos Uivantes",
+            "descricao_livro": "A história de um amor que nem mesmo as armadilhas do destino e a morte conseguiram destruir No centro dos acontecimentos dessa história de obsessão e dor, perversidade e vingança, estão a obstinada figura de Catherine Earnshaw e o rude e enérgico Heathcliff, que aprende a odiar após sofrer humilhações e rejeições de todos os tipos. Publicado originalmente em 1847, O morro dos ventos uivantes é um retrato penetrante e comovente da degradação humana. E, como todo bom clássico, tem várias portas por onde o leitor pode entrar. Mais difícil, no entanto, será encontrar a saída, pois o efeito da leitura ficará entranhado para sempre em sua lembrança. Essa edição traz excelente tradução de Adriana Lisboa e breve apresentação de Rodrigo Lacerda. A versão impressa apresenta ainda a capa dura e o acabamento de luxo dos Clássicos Zahar.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=oXDTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "11",
+            "nome_livro": "O Poder do Hábito",
+            "descricao_livro": "Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los. Com novo prefácio do autor. Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela mudaram de maneira fundamental. Publicitários da Procter & Gamble observaram vídeos de pessoas fazendo a cama. Tentavam desesperadamente descobrir como vender um novo produto chamado Febreze, que estava prestes a se tornar um dos maiores fracassos na história da empresa. De repente, um deles detecta um padrão quase imperceptível - e, com uma sutil mudança na campanha publicitária, Febreze começa a vender um bilhão de dólares por anos. Um diretor executivo pouco conhecido assume uma das maiores empresas norte-americanas. Seu primeiro passo é atacar um único padrão entre os funcionários - a maneira como lidam com a segurança no ambiente de trabalho -, e logo a empresa começa a ter o melhor desempenho no índice Dow Jones. O que todas essas pessoas tem em comum? Conseguiram ter sucesso focando em padrões que moldam cada aspecto de nossas vidas. Tiveram êxito transformando hábitos. Com perspicácia e habilidade, Charles Duhigg apresenta um novo entendimento da natureza humana e seu potencial para a transformação.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=XjgqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          {
+            "id": "12",
+            "nome_livro": "O Silmarillion",
+            "descricao_livro": "\"O Silmarillion\" é um relato dos Dias Antigos da Primeira Era do mundo criado por J.R.R. Tolkien. É a história longínqua para a qual os personagens de \"O Senhor dos Anéis\" e \"O Hobbit\" olham para trás, e em cujos eventos alguns deles, como Elrond e Galadriel, tomaram parte. Os contos de \"O Silmarillion\" se passam em uma época em que Morgoth, o Primeiro Senhor Sombrio, habitava a Terra-média, e os Altos-Elfos guerreavam contra ele pela recuperação das Silmarils, as joias que continham a pura luz de Valinor. O livro começa com \"O Ainulindalë\", o mito da criação do Universo, seguido pelo \"Valaquenta\", onde estão descritas a natureza e os poderes de cada um dos deuses. O \"Akallâbeth\" narra o apogeu e a queda do reino da grande ilha de Númenor no final da Segunda Era e \"Dos Anéis de Poder\" fala dos grandes eventos no final da Terceira Era, como narrado em \"O Senhor dos Anéis\".",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=B3uFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "13",
+            "nome_livro": "O Apanhador no Campo de Centeio",
+            "descricao_livro": "Um dos romances mais revolucionários do século XX, O apanhador no campo de centeio é a representação definitiva da juventude na literatura. Com mais de 70 milhões de cópias vendidas desde seu lançamento em 1951, o livro influenciou e marcou gerações de leitores com sua visão crua da adolescência, sua prosa ágil e desbocada e seu humor feroz e anárquico. Esta nova edição que chega agora ao leitor brasileiro tem tradução do premiado Caetano W. Galindo e, pela primeira vez, traz a capa original de seu lançamento. É Natal, e Holden Caulfield conseguiu ser expulso de mais uma escola. Com uns trocados da venda de uma máquina de escrever e portando seu indefectível boné vermelho de caçador, o jovem traça um plano incerto: tomar um trem para Nova York e vagar por três dias pela grande cidade, adiando a volta à casa dos pais até que eles recebam a notícia da expulsão por alguém da escola. Seus dias e noites serão marcados por encontros confusos, e ocasionalmente comoventes, com estranhos, brigas com os tipos mais desprezíveis, encontros com ex-namoradas, visitas à sua irmã Phoebe -- a única criatura neste mundo que parece entendê-lo -- e por dúvidas que irão consumi-lo durante sua estadia, entre elas uma questão recorrente: afinal, para onde vão os patos do Central Park no inverno? Acima de todos esses fatos, preocupações e pensamentos, paira a inimitável voz de Holden, o adolescente raivoso e idealista que quer desbancar o mundo dos \"fajutos\", num turbilhão quase sem fim de ressentimento, humor, frases lapidares, insegurança, bravatas e rebelião juvenil.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=Gm_iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "14",
+            "nome_livro": "O Estrangeiro",
+            "descricao_livro": "Mais conhecida e importante obra de ficção de Albert Camus. Este livro narra a história de um homem comum que se depara com o absurdo da condição humana depois que comete um crime quase inconscientemente. Meursault, que vivia sua liberdade de ir e vir sem ter consciência dela, subitamente perde-a envolvido pelas circunstâncias e acaba descobrindo uma liberdade maior e mais assustadora na própria capacidade de se autodeterminar. Uma reflexão sobre liberdade e condição humana que deixou marcas profundas no pensamento ocidental. Uma das mais belas narrativas deste século.",
+            "data_lancamento": "1994-08-29",
+            "data_cadastro": "2024-07-17",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=44CcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          }
+    ]
+}
