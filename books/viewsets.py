@@ -31,3 +31,5 @@ class LivroViewSet(ModelViewSet):
     serializer_class = LivroSerializer
     search_fields = ('nome_livro',)
     http_method_names = ['get', 'head', 'options']
+    
+
